@@ -1,0 +1,20 @@
+https://github.com/keshavkummari/intelli_devops_20191022
+
+Visual studio code ------ IDE tool
+
+
+AWS:
+
+Python
+PIP
+
+
+doc.aws.amazon.com
+
+
+aws config
+
+
+
+https://github.com/keshavkummari/intelli_devops_20191022
+
